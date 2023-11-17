@@ -13,7 +13,7 @@
 }
 
 button {
-    height: 100px;
+    height: 60px;
     width: 200px;
     background-color: rgb(12, 11, 11);
     color: white;
@@ -24,7 +24,7 @@ button {
 }
 
 #hexColor {
-    font-size: 15px;
+    font-size: 25px;
     justify-content: center;
     display: flex;
     margin-bottom: 1em;
