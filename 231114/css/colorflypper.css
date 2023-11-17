@@ -1,0 +1,23 @@
+*{ 
+    box-sizing: border-box; 
+    margin: 0px; 
+    padding: 0px; 
+} 
+  
+#colorFlipper { 
+    width: 100vw; 
+    height: 100vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+} 
+  
+button { 
+    height: 100px; 
+    width: 200px; 
+    background-color: rgb(12, 11, 11); 
+    color: white; 
+    border-radius: 10px; 
+    font-size: 20px;
+    cursor: pointer; 
+}
